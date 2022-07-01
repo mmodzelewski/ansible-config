@@ -17,3 +17,4 @@ WORKDIR /home/mm
 
 FROM mm-user
 COPY . .
+CMD ["sh", "-c", "ansible-playbook local.yml"]
