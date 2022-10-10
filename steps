@@ -1,0 +1,23 @@
+- install brave https://brave.com/linux/#release-channel-installation
+- install 1Password https://support.1password.com/install-linux/
+- install 1Password cli / ssh sock
+	sudo apt update && sudo apt install 1password-cli
+	update ssh/config
+- install Stow
+- get dotfiles
+- install alacritty from apt
+- install neovim
+    - add neovim ppa: sudo add-apt-repository ppa:neovim-ppa/stable
+    - install Plug
+    - run :PlugInstall
+- install tmux
+- install fzf, https://github.com/junegunn/fzf#using-linux-package-managers
+    - from git to tools folder
+- install ripgrep from apt
+- install zsh
+- install omz
+    - install zsh-autosuggestions
+- install pl10k
+    - install font
+- install touchcursor (https://github.com/donniebreve/touchcursor-linux)
+- set up jenv and java
