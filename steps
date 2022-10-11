@@ -21,6 +21,6 @@
     - install font
 - install touchcursor (https://github.com/donniebreve/touchcursor-linux)
 - set up jenv and java
-
-
+- install volta 'curl https://get.volta.sh | bash'
 - haruna video player
+
