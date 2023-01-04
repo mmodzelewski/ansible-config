@@ -21,6 +21,10 @@
     - install font
 - install touchcursor (https://github.com/donniebreve/touchcursor-linux)
 - set up jenv and java
+- install maven
 - install volta 'curl https://get.volta.sh | bash'
 - haruna video player
-
+- install docker
+- install bat
+- configure git
+- install espanso
