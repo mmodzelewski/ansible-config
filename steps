@@ -8,8 +8,8 @@
 - install alacritty from apt
 - install neovim
     - add neovim ppa: sudo add-apt-repository ppa:neovim-ppa/stable
-    - install Plug
-    - run :PlugInstall
+    - install Packer
+    - run :PackerSync
 - install tmux
 - install fzf, https://github.com/junegunn/fzf#using-linux-package-managers
     - from git to tools folder
