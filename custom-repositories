@@ -1,0 +1,4 @@
+sudo add-apt-repository ppa:yubico/stable
+docker
+brave
+1Password

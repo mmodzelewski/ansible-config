@@ -28,3 +28,5 @@
 - install bat
 - configure git
 - install espanso
+- setup yubikey
+    - https://support.yubico.com/hc/en-us/articles/360018695819-Ubuntu-Linux-20-Login-Guide-Challenge-Response
